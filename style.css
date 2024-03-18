@@ -1,6 +1,6 @@
 :root{
-    --background: #ffffff;
-    --text: #5f0000;
+    --background: #1a0808;
+    --text: #f5f5f9;
 }
 
 *{
@@ -9,9 +9,14 @@
 }
 
 body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
     font-family : 'Couier New', courier, monospace;
     text-align: center;
-    background: var(--background);
+    
 }
 .container {
     padding: 10px;

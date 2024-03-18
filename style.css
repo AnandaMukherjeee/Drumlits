@@ -1,6 +1,6 @@
 :root{
-    --background: #091921;
-    --text: #00fff1;
+    --background: #ffffff;
+    --text: #5f0000;
 }
 
 *{
@@ -48,7 +48,7 @@ body {
 .w,
 .d,
 .l {
-    border-radius: 50%;
+    border-radius: 90%;
 }
 
 .volume__control {

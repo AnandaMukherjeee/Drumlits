@@ -25,12 +25,12 @@ document.addEventListener("keypress", (event) => {
 })
 
 //theme 1
-const theme_1__background = "#091921";
-const theme_1__text = "#00fff1";
+const theme_1__background = "#ffffff";
+const theme_1__text = "#5f0000";
 
 
 //theme 2
-const theme_2__background = "#f7c340";
+const theme_2__background = "#ffc0cb";
 const theme_2__text = "#2d2d2d";
 
 const change_theme = (theme) => {

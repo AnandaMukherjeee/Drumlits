@@ -25,7 +25,7 @@ document.addEventListener("keypress", (event) => {
 })
 
 //theme 1
-const theme_1__background = "#1a0808";
+const theme_1__background = "#098713";
 const theme_1__text = "#f5f5f9";
 
 
